@@ -1,5 +1,7 @@
 
-test Nico :Blablabla "David: je modifie la meme ligne" mon texte ici
+test Nico :Blablabla "je rajoute du texte" / "David: je modifie la meme ligne" mon texte ici
+
+test Nico :Blablabla mon texte ici
 
 test david : bonjour nicolas
 
